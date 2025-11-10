@@ -303,7 +303,7 @@ static void generate_bill(void) {
 static int authenticate(void) {
     char pass[128];
     safe_prompt("Enter admin password: ", pass, sizeof(pass));
-    return strcmp(pass, "admin123") == 0;
+    return strcmp(pass, "govind123") == 0;
 }
 
 int main(void) {
