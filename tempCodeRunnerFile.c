@@ -1,0 +1,1 @@
+gcc Advanced_HMS_fixed.c -o Advanced_HMS
