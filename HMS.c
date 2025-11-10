@@ -2,8 +2,6 @@
    Single-file console Hospital Management System (C)
    Compile: gcc Advanced_HMS_fixed.c -o Advanced_HMS
    Run: ./Advanced_HMS
-   Admin password (hardcoded): admin123
-   Note: Educational/demo. Not production.
 */
 
 #include <stdio.h>
